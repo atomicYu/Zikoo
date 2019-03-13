@@ -1,2 +1,2 @@
-# Zikoo
+# ZiKoo
 Software for geometers
